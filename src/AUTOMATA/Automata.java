@@ -1451,10 +1451,7 @@ inicio();
 	System.out.println("---->[POSICION:"+posicionlexer+"] REC>>> ["+car[posicionlexer]+"]");
 	}
 }
-//REPORTADOR DE LECTURA
-
-
-
+//FINAL DEL PROGRAMA - GIANMARCOS ESPINOZA
 }
 
 
